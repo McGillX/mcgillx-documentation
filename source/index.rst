@@ -18,7 +18,7 @@ Research Documentation
 
 This is a public repository documenting the tools developed and used by the McGillX research team to package, analyse, and manipulate the data that is collected through McGill’s online courses offered via the edX platform.
 
-https://readthedocs.org/projects/mcgillx-research-documentation/
+http://mcgillx-research-documentation.readthedocs.org/en/latest/
 
 Courseware Development Guide
 --------------------------------------------------
